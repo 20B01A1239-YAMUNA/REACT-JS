@@ -1,0 +1,43 @@
+.div1{
+    
+    height: 400px;
+    width: 600px;
+    border-radius: 5px;
+    background-color: rgb(233, 169, 233);
+    position: absolute; 
+   top: 50px;
+   left: 300px;
+}
+img{
+    height: 150px;
+    width: 400px;
+    border-radius: 5px;
+}
+.div2{
+    
+    height: 320px;
+    width: 400px;
+    border-radius: 5px;
+    background-color: rgb(120, 233, 222);
+    position: absolute; 
+    top: 40px;
+    left: 100px;
+}
+h3{
+    color: red;
+}
+p{
+    color: rgb(143, 10, 238);
+}
+h5:hover{
+    color: rgb(235, 119, 18);
+}
+h5{
+    display:inline;
+    color:blue;
+    }
+    .div3{
+        position: absolute;
+        left: 10px;
+    }
+    
